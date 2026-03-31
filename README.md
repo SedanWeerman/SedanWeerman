@@ -1,12 +1,12 @@
 # Hoi, ik ben Stefan.
 
-Product consultant met 10+ jaar ervaring bij Coolblue, Essent en Postcodeloterij. Ik bouw met AI en deel wat ik leer.
+Ik doe aan product. Al meer dan tien jaar. Coolblue, Postcodeloterij, Essent, trainingen, consultancy. En sinds AI doe ik het gewoon allemaal. Omdat het kan.
 
 ## Wat je hier vindt
 
-**[NL Product Skills](https://github.com/Stefan-Wesemann/nl-product-skills)** — 34 Nederlandstalige product management skills voor Claude. Gebouwd op FORCES, Blue Ocean, The Mom Test en meer. Gratis, open source, en ze vragen door in plaats van een generiek lijstje teruggeven.
+**[NL Product Skills](https://github.com/Stefan-Wesemann/nl-product-skills)** — 34 Nederlandstalige product management skills voor Claude. Gebouwd op frameworks als FORCES, Blue Ocean, The Mom Test en meer. Geen generieke lijstjes maar skills die doorvragen, context meenemen en je naar betere uitkomsten helpen. Gratis en open source.
 
 ## Verder
 
-- [Afkijken](https://afkijken.substack.com) — Mijn Substack over product + AI
+- [en|en](https://enenai.substack.com) — Mijn Substack over product + AI
 - [LinkedIn](https://linkedin.com/in/stefanwesemann) — Stuur me gerust een bericht
